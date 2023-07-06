@@ -1,4 +1,4 @@
 # Calculator
 Simple Calculator 
-#Deployed
+# Deployed on Netlify
 https://simple-calculator-mode.netlify.app/
